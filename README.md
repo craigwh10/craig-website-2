@@ -3,11 +3,11 @@
 My personal website with the code public so people can comment on or gain things from my approach.
 
 Contains:
-
 - NextJS setup
 - TODO: Consistency setup
     - TODO: Stylelint
     - TODO: ESlint
+    - TODO: Husky/Commitlint
 - TODO: Testing setup
     - TODO: React testing library
     - TODO: BackstopJS
