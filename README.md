@@ -43,12 +43,13 @@ Contains:
     - TODO: React testing library - DOM unit testing
     - TODO: BackstopJS - Visual Regression
     - TODO: Cypress - E2E xbrowser testing
-- Prop-Types
+- ✅ Prop-Types
     - ℹ️ Reason: Prop-Types are run time validation, whereas typescript is compile time, safer components.
-- Theming strategy
 - TODO: Github action CI
     - Build
     - Lint & Test
 - TODO: Github action CD w/ Vercel
     - Pre prod
     - Prod
+- TODO: Theming strategy
+- TODO: Seperate starting as a branch people can fork
