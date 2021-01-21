@@ -4,9 +4,12 @@ My personal website with the code public so people can comment on or gain things
 
 Contains:
 - NextJS setup
+    - Typescript
 - TODO: Consistency setup
     - TODO: Stylelint
-    - TODO: ESlint
+    - ESlint
+        - React
+        - https://github.com/yannickcr/eslint-plugin-react/issues/2157
     - Husky
         - Pre commit linting (Commitlint)
         - Pre commit testing
