@@ -7,7 +7,9 @@ Contains:
 - TODO: Consistency setup
     - TODO: Stylelint
     - TODO: ESlint
-    - TODO: Husky/Commitlint
+    - Husky
+        - Pre commit linting (Commitlint)
+        - Pre commit testing
 - TODO: Testing setup
     - TODO: React testing library
     - TODO: BackstopJS
